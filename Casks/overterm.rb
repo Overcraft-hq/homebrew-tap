@@ -1,6 +1,6 @@
 cask "overterm" do
-  version "1.5.5"
-  sha256 "d389b3368f0fe8c7234bf789e380d911f075407d6a1c93a3190e3f227de6aaf7"
+  version "1.5.6"
+  sha256 "cc7c968e9811d28caaeeafea4492b7bda06b299bc052d60e6b460be857dae019"
 
   url "https://github.com/Overcraft-hq/overterm/releases/download/v#{version}/Overterm-#{version}.dmg"
   name "Overterm"
